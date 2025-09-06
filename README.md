@@ -96,4 +96,3 @@ The major parameters are decided in `config.yaml` under `backtester`. All the pa
 | Name              | Email                               | LinkedIn                                               | GitHub                               |
 |-------------------|-------------------------------------|--------------------------------------------------------|---------------------------------------|
 | **Avinandan Sharma** | [avinandansh08@gmail.com](mailto:avinandansh08@gmail.com) | [linkedin.com/in/avinandan-sharma/](https://www.linkedin.com/in/avinandan-sharma/) | [github.com/kBrutal](https://github.com/kBrutal) |
-| **Subarno Maji**     | [subarnomaji@gmail.com](mailto:subarnomaji@gmail.com)         | [linkedin.com/in/subarno-maji-6076a425b/](https://www.linkedin.com/in/subarno-maji-6076a425b/)         | [github.com/SubarnoMaji/](https://github.com/SubarnoMaji/)         |
