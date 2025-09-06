@@ -1,0 +1,224 @@
+Strategy from 2020-01-01 00:00:00 to 2023-12-31 19:57:00 with tp=0.12 and sl=0.06Metrics Results:
+final_balance                             1696.614692
+gross_profit                               953.341585
+gross_loss                                -256.726893
+net_profit                                 696.614692
+total_long_trades                                  18
+total_short_trades                                 16
+win_rate                                    61.764706
+loss_rate                                   38.235294
+avg_winning_trade                           47.197014
+avg_losing_trade                           -18.067954
+buy_and_hold_return                       -122.563135
+largest_losing_trade                       -39.750588
+largest_winning_trade                      163.079422
+maximum_drawdown                             -8.12756
+average_drawdown                            -1.554725
+CAGR                                         8.427443
+sharpe_ratio                                 8.083805
+sortino_ratio                               28.147548
+average_holding_duration    1 days 15:38:49.090909090
+maximum_holding_duration              8 days 20:00:00
+maximum_pnl                                163.079422
+minimum_pnl                                -39.750588
+min_portfolio_balance                      919.399286
+max_portfolio_balance                     1719.976047
+num_of_trades                                      34
+total_fee                                   59.639196
+profit_percent                               0.617647
+benchmark_returns                         4857.825777
+dtype: object
+
+
+Strategy from 2020-01-01 00:00:00 to 2023-12-31 19:57:00 with tp=0.12 and sl=0.06Metrics Results:
+final_balance                               1086.2421
+gross_profit                                597.58836
+gross_loss                                 -511.34626
+net_profit                                    86.2421
+total_long_trades                                  22
+total_short_trades                                 17
+win_rate                                    46.153846
+loss_rate                                   53.846154
+avg_winning_trade                           34.867938
+avg_losing_trade                           -22.619766
+buy_and_hold_return                        333.609921
+largest_losing_trade                      -183.558051
+largest_winning_trade                      264.360096
+maximum_drawdown                           -22.107153
+average_drawdown                           -14.257633
+CAGR                                         0.426505
+sharpe_ratio                                 1.814527
+sortino_ratio                                3.243878
+average_holding_duration    1 days 13:49:01.578947368
+maximum_holding_duration              7 days 16:42:00
+maximum_pnl                                264.360096
+minimum_pnl                               -183.558051
+min_portfolio_balance                          1000.0
+max_portfolio_balance                      1383.31268
+num_of_trades                                      39
+total_fee                                   66.365702
+profit_percent                               0.461538
+benchmark_returns                         4857.825777
+dtype: object
+
+
+Strategy from 2020-01-01 00:00:00 to 2023-12-31 19:57:00 with tp=0.12 and sl=0.06Metrics Results:
+final_balance                              611.525756
+gross_profit                             16829.619484
+gross_loss                              -17218.093728
+net_profit                                -388.474244
+total_long_trades                                 333
+total_short_trades                                331
+win_rate                                    29.518072
+loss_rate                                   70.481928
+avg_winning_trade                           87.814125
+avg_losing_trade                           -34.878847
+buy_and_hold_return                        4838.46732
+largest_losing_trade                      -195.275524
+largest_winning_trade                       337.74497
+maximum_drawdown                           -84.063892
+average_drawdown                           -45.259243
+CAGR                                        -0.115766
+sharpe_ratio                                 0.747877
+sortino_ratio                                2.078326
+average_holding_duration    2 days 03:02:07.330316742
+maximum_holding_duration             10 days 08:00:00
+maximum_pnl                                 337.74497
+minimum_pnl                               -195.275524
+min_portfolio_balance                      583.153436
+max_portfolio_balance                      3659.32164
+num_of_trades                                     664
+total_fee                                 1276.742225
+profit_percent                               0.295181
+benchmark_returns                         4857.825777
+dtype: object
+
+
+Strategy from 2020-01-01 00:00:00 to 2023-12-31 19:57:00 with tp=0.12 and sl=0.06Metrics Results:
+final_balance                              611.525756
+gross_profit                             16829.619484
+gross_loss                              -17218.093728
+net_profit                                -388.474244
+total_long_trades                                 333
+total_short_trades                                331
+win_rate                                    29.518072
+loss_rate                                   70.481928
+avg_winning_trade                           87.814125
+avg_losing_trade                           -34.878847
+buy_and_hold_return                        4838.46732
+largest_losing_trade                      -195.275524
+largest_winning_trade                       337.74497
+maximum_drawdown                           -84.063892
+average_drawdown                           -45.259243
+CAGR                                        -0.115766
+sharpe_ratio                                 0.747877
+sortino_ratio                                2.078326
+average_holding_duration    2 days 03:02:07.330316742
+maximum_holding_duration             10 days 08:00:00
+maximum_pnl                                 337.74497
+minimum_pnl                               -195.275524
+min_portfolio_balance                      583.153436
+max_portfolio_balance                      3659.32164
+num_of_trades                                     664
+total_fee                                 1276.742225
+profit_percent                               0.295181
+benchmark_returns                         4857.825777
+dtype: object
+
+
+Strategy from 2020-01-01 00:00:00 to 2023-12-31 19:57:00 with tp=0.12 and sl=0.06Metrics Results:
+final_balance                              611.525756
+gross_profit                             16829.619484
+gross_loss                              -17218.093728
+net_profit                                -388.474244
+total_long_trades                                 333
+total_short_trades                                331
+win_rate                                    29.518072
+loss_rate                                   70.481928
+avg_winning_trade                           87.814125
+avg_losing_trade                           -34.878847
+buy_and_hold_return                        4838.46732
+largest_losing_trade                      -195.275524
+largest_winning_trade                       337.74497
+maximum_drawdown                           -84.063892
+average_drawdown                           -45.259243
+CAGR                                        -0.115766
+sharpe_ratio                                 0.747877
+sortino_ratio                                2.078326
+average_holding_duration    2 days 03:02:07.330316742
+maximum_holding_duration             10 days 08:00:00
+maximum_pnl                                 337.74497
+minimum_pnl                               -195.275524
+min_portfolio_balance                      583.153436
+max_portfolio_balance                      3659.32164
+num_of_trades                                     664
+total_fee                                 1276.742225
+profit_percent                               0.295181
+benchmark_returns                         4857.825777
+dtype: object
+
+
+Strategy from 2020-01-01 00:00:00 to 2023-12-31 19:57:00 with tp=0.12 and sl=0.06Metrics Results:
+final_balance                             20996.27787
+gross_profit                             86989.487141
+gross_loss                               -66993.20927
+net_profit                                19996.27787
+total_long_trades                                 327
+total_short_trades                                347
+win_rate                                    48.961424
+loss_rate                                   51.038576
+avg_winning_trade                          279.321897
+avg_losing_trade                          -178.900023
+buy_and_hold_return                       4858.005361
+largest_losing_trade                     -1640.912019
+largest_winning_trade                     3669.149418
+maximum_drawdown                           -29.331401
+average_drawdown                            -10.01794
+CAGR                                         1.141717
+sharpe_ratio                                 3.007942
+sortino_ratio                                 7.50491
+average_holding_duration    1 days 08:58:06.062407132
+maximum_holding_duration             11 days 08:00:00
+maximum_pnl                               3669.149418
+minimum_pnl                              -1640.912019
+min_portfolio_balance                      946.691295
+max_portfolio_balance                    22764.530573
+num_of_trades                                     674
+total_fee                                 10638.34023
+profit_percent                               0.489614
+benchmark_returns                         4857.825777
+dtype: object
+
+
+Strategy from 2020-01-01 00:00:00 to 2023-12-31 19:57:00 with tp=0.12 and sl=0.06Metrics Results:
+final_balance                             20996.27787
+gross_profit                             86989.487141
+gross_loss                               -66993.20927
+net_profit                                19996.27787
+total_long_trades                                 327
+total_short_trades                                347
+win_rate                                    48.961424
+loss_rate                                   51.038576
+avg_winning_trade                          279.321897
+avg_losing_trade                          -178.900023
+buy_and_hold_return                       4858.005361
+largest_losing_trade                     -1640.912019
+largest_winning_trade                     3669.149418
+maximum_drawdown                           -29.331401
+average_drawdown                            -10.01794
+CAGR                                         1.141717
+sharpe_ratio                                 3.007942
+sortino_ratio                                 7.50491
+average_holding_duration    1 days 08:58:06.062407132
+maximum_holding_duration             11 days 08:00:00
+maximum_pnl                               3669.149418
+minimum_pnl                              -1640.912019
+min_portfolio_balance                      946.691295
+max_portfolio_balance                    22764.530573
+num_of_trades                                     674
+total_fee                                 10638.34023
+profit_percent                               0.489614
+benchmark_returns                         4857.825777
+dtype: object
+
+
